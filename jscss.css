@@ -1,0 +1,40 @@
+body {
+  text-align: center;
+  margin: 0; 
+  height: 100vh;
+  background-image: url(grunge-certificate-with-vintage-ornamental-frame.jpg);
+  background-size: cover; 
+  background-position: center; 
+  background-repeat: no-repeat; 
+}
+
+
+.container{
+    
+    background-color:#081b31 ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 30rem;
+    border-radius: 10rem;
+    margin: 2rem auto;
+}
+
+#search{
+    height: 3rem;
+    width: 18rem;
+    border: 2px solid #aa99a0; 
+    border-radius: 10rem;  
+    padding: .6rem;
+}
+
+#btn{
+  border-radius: 10rem;
+}
+
+.details{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
