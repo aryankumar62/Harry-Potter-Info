@@ -7,7 +7,7 @@ Select a character from the dropdown and view detailed information instantly.
 
 ## 🚀 Live Demo
 
-🔗 https://aryankumar62.github.io/REPO-NAME/
+🔗 https://aryankumar62.github.io/Harry-Potter-Info/
 
 ---
 
